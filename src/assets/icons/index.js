@@ -10,7 +10,7 @@ import heart1 from './heart1.svg';
 import logout from './logout.svg';
 import comment from './comment.svg';
 import share from './share.svg';
-import anony from './anony.svg';
+import  from './.svg';
 import search from './search.svg';
 import filter from './filter.svg';
 import star from './star.svg';
@@ -31,5 +31,5 @@ export {
 	search,
 	filter,
 	star,
-	anony,
+	,
 };
